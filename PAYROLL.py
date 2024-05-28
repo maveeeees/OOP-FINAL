@@ -387,7 +387,7 @@ save.place(relx=.86, rely=.76)
 update = Button(window, text="Update", width=14, bg="indigo", fg="floral white", cursor='hand2')
 update.place(relx=.74, rely=.80)
 
-new = Button(window, text="New", width=14, bg="green", fg="floral white", cursor='hand2')
+new = Button(window, text="New", width=14, bg="teal", fg="floral white", cursor='hand2')
 new.place(relx=.82, rely=.80)
 
 window.mainloop()
