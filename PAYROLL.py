@@ -380,14 +380,14 @@ net_btn = Button(window, text="Net Income", width=14, bg="blue", fg="floral whit
 net_btn.place(relx=.78, rely=.76)
 
 
-save = Button(window, text="Save", width=14, bg="teal", fg="floral white", cursor='hand2')
+save = Button(window, text="Save", width=14, bg="purple", fg="floral white", cursor='hand2')
 save.place(relx=.86, rely=.76)
 
 
 update = Button(window, text="Update", width=14, bg="indigo", fg="floral white", cursor='hand2')
 update.place(relx=.74, rely=.80)
 
-new = Button(window, text="New", width=14, bg="red", fg="floral white", cursor='hand2')
+new = Button(window, text="New", width=14, bg="teal", fg="floral white", cursor='hand2')
 new.place(relx=.82, rely=.80)
 
 window.mainloop()
